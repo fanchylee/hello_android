@@ -1,0 +1,5 @@
+Linux 平台上 Android 的交叉编译环境。使用 helloworld 程序测试。
+
+该交叉编译环境是最简单的使用 Android NDK 和 gnu make 工具直接构建，没有图形界面。
+
+构建过程中参考了之前的别人的旧版本 Android NDK 的交叉编译环境构建方法。http://www.lostleon.com/blog/2010/06/how-to-build-cross-compile-environment-of-android/
