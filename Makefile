@@ -1,8 +1,8 @@
 APP=mempodroid
  
-NDK_DIR := /media/__ubuntu_11.10_/home/li3939108/android-ndk-r8b
+NDK_DIR := /media/__ubuntu_11.10_/home/li3939108/android-ndk-r8b#自己的路径your own path
 NDK_HOST := linux-x86
-SDKTOOL := /media/ext4_34GB_Lct1/home/li3939108/Documents/android-sdk-linux/tools
+SDKTOOL := /media/ext4_34GB_Lct1/home/li3939108/Documents/android-sdk-linux/tools# your own path 自己的路径
  
 TOOLCHAIN_PREFIX := $(NDK_DIR)/toolchains/arm-linux-androideabi-4.6/prebuilt/$(NDK_HOST)/bin/arm-linux-androideabi-
 CC := $(TOOLCHAIN_PREFIX)gcc
